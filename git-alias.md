@@ -1,5 +1,5 @@
 
-```js
+```bash
 // First thing to do is to setup your name and email in git
  $ git config --global user.name "Aman Mavai"
  $ git config --global user.email "amanmavai@gmail.com"
